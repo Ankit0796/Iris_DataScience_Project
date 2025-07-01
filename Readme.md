@@ -102,9 +102,6 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 ![Image](https://github.com/user-attachments/assets/a6b241fc-df01-4af4-8202-8b71a537c819)
 - Scatter plots grouped by species
 - Analysis of feature-to-target relationships
-  
-![Image](https://github.com/user-attachments/assets/753db0b0-bbd7-4fdc-b9a9-4b6c87e49fb0)
-![Image](https://github.com/user-attachments/assets/09d56979-ab53-449d-8a9d-f80120eaf5e4)
 
 ---
 
@@ -125,6 +122,7 @@ Trained using `LogisticRegression` from `sklearn`.
 - 🔁 10-fold Cross-validation
 - 📊 Scatter plots for predicted vs actual labels
 
+![Image](https://github.com/user-attachments/assets/753db0b0-bbd7-4fdc-b9a9-4b6c87e49fb0)
 ---
 
 ## 🔁 Model Tuning
@@ -133,6 +131,8 @@ Trained using `LogisticRegression` from `sklearn`.
 - **Best performing value:** `C = 2`
 
 ![Image](https://github.com/user-attachments/assets/e278f474-d688-4d3f-bf45-930476d958af)
+
+![Image](https://github.com/user-attachments/assets/09d56979-ab53-449d-8a9d-f80120eaf5e4)
 ---
 
 ## 🌟 Final Model Evaluation
