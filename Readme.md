@@ -107,7 +107,8 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 
 ## ✅ Manual Accuracy
 
-- Manual accuracy: **~98% on training data**
+- ![Image](https://github.com/user-attachments/assets/79daf451-8a9f-4dbe-bde2-498fff4183cc)
+- Manual accuracy: **~96% on training data**
 
 ---
 
@@ -126,7 +127,7 @@ Trained using `LogisticRegression` from `sklearn`.
 
 - Hyperparameter `C` (inverse of regularization strength) tuned manually
 - **Best performing value:** `C = 2`
-
+- ![Image](https://github.com/user-attachments/assets/e278f474-d688-4d3f-bf45-930476d958af)
 ---
 
 ## 🌟 Final Model Evaluation
@@ -141,9 +142,9 @@ Trained using `LogisticRegression` from `sklearn`.
 
 | Model                      | Accuracy         |
 |---------------------------|------------------|
-| Manual Rule-Based (Train) | ~98%             |
+| Manual Rule-Based (Train) | ~95%             |
 | Logistic Regression (CV)  | ~96%             |
-| Logistic Regression (Test)| **95%**          |
+| Logistic Regression (Tuning)| **95%**          |
 
 ---
 
@@ -154,6 +155,7 @@ Trained using `LogisticRegression` from `sklearn`.
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+- ![Image](https://github.com/user-attachments/assets/3856dd98-3e50-4186-a130-d3e6ef5c2a6c)
 
 ---
 
@@ -165,24 +167,3 @@ Trained using `LogisticRegression` from `sklearn`.
 
 ---
 
-## 🧠 Future Work
-
-- Try other models: **SVM**, **KNN**, **Decision Tree**, **XGBoost**
-- Include **confusion matrix** and **classification report**
-- Use dimensionality reduction techniques (**PCA**, **t-SNE**)
-- Turn this into a **Streamlit** app for interactive prediction
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/yourusername/iris-logistic-regression.git
-cd iris-logistic-regression
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the notebook
-jupyter notebook iris_classification.ipynb
