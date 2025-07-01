@@ -92,6 +92,7 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 ## 🔍 Exploratory Data Analysis
 
 - Histograms for each feature
+
 ![Image](https://github.com/user-attachments/assets/17e883c3-88dc-489c-8032-c15dc4eb33f7)
 ![Image](https://github.com/user-attachments/assets/b6965834-8e3f-4b8f-88f9-4ad8d07b577d)
 ![Image](https://github.com/user-attachments/assets/d9ab66a2-2ff9-4804-8362-a780ac334f74)
