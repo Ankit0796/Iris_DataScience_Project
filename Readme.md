@@ -155,7 +155,7 @@ Trained using `LogisticRegression` from `sklearn`.
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- ![Image](https://github.com/user-attachments/assets/3856dd98-3e50-4186-a130-d3e6ef5c2a6c)
+- ![Image](https://github.com/user-attachments/assets/9c2f1e74-04f3-45e1-9b69-74e01a2f9f59)
 
 ---
 
