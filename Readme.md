@@ -98,9 +98,11 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 ![Image](https://github.com/user-attachments/assets/d9ab66a2-2ff9-4804-8362-a780ac334f74)
 ![Image](https://github.com/user-attachments/assets/a0ceb170-f02e-416a-94df-ccdbdc35dea3)
 - Pairplots showing class separability
+
 ![Image](https://github.com/user-attachments/assets/a6b241fc-df01-4af4-8202-8b71a537c819)
 - Scatter plots grouped by species
 - Analysis of feature-to-target relationships
+  
 ![Image](https://github.com/user-attachments/assets/753db0b0-bbd7-4fdc-b9a9-4b6c87e49fb0)
 ![Image](https://github.com/user-attachments/assets/09d56979-ab53-449d-8a9d-f80120eaf5e4)
 
@@ -108,7 +110,8 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 
 ## ✅ Manual Accuracy
 
-- ![Image](https://github.com/user-attachments/assets/79daf451-8a9f-4dbe-bde2-498fff4183cc)
+![Image](https://github.com/user-attachments/assets/79daf451-8a9f-4dbe-bde2-498fff4183cc)
+
 - Manual accuracy: **~96% on training data**
 
 ---
@@ -128,7 +131,8 @@ Trained using `LogisticRegression` from `sklearn`.
 
 - Hyperparameter `C` (inverse of regularization strength) tuned manually
 - **Best performing value:** `C = 2`
-- ![Image](https://github.com/user-attachments/assets/e278f474-d688-4d3f-bf45-930476d958af)
+
+![Image](https://github.com/user-attachments/assets/e278f474-d688-4d3f-bf45-930476d958af)
 ---
 
 ## 🌟 Final Model Evaluation
@@ -156,7 +160,8 @@ Trained using `LogisticRegression` from `sklearn`.
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- ![Image](https://github.com/user-attachments/assets/9c2f1e74-04f3-45e1-9b69-74e01a2f9f59)
+
+![Image](https://github.com/user-attachments/assets/9c2f1e74-04f3-45e1-9b69-74e01a2f9f59)
 
 ---
 
