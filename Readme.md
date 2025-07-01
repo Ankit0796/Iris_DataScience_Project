@@ -92,10 +92,10 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 ## 🔍 Exploratory Data Analysis
 
 - Histograms for each feature
-![Image](https://github.com/user-attachments/assets/34965d60-efad-4e3e-aa7c-6aa58ed5df54)
-![Image](https://github.com/user-attachments/assets/003711b7-c786-444a-a7d8-c73284c7d58f)
-![Image](https://github.com/user-attachments/assets/a474365f-8d41-47ce-aa88-e54cb4cfff07)
-![Image](https://github.com/user-attachments/assets/8e765748-835a-4c13-a4a3-87b21408cb65)
+![Image](https://github.com/user-attachments/assets/17e883c3-88dc-489c-8032-c15dc4eb33f7)
+![Image](https://github.com/user-attachments/assets/b6965834-8e3f-4b8f-88f9-4ad8d07b577d)
+![Image](https://github.com/user-attachments/assets/d9ab66a2-2ff9-4804-8362-a780ac334f74)
+![Image](https://github.com/user-attachments/assets/a0ceb170-f02e-416a-94df-ccdbdc35dea3)
 - Pairplots showing class separability
 ![Image](https://github.com/user-attachments/assets/a6b241fc-df01-4af4-8202-8b71a537c819)
 - Scatter plots grouped by species
