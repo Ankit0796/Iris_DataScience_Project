@@ -11,7 +11,7 @@ Predict the species of an Iris flower (Setosa, Versicolor, or Virginica) based o
 
 ## 📊 Dataset Details
 
-# 🌸 Iris Plants Dataset
+## 🌸 Iris Plants Dataset
 
 ## 📊 Data Set Characteristics
 
@@ -74,7 +74,7 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 
 - Cheeseman et al. *AUTOCLASS II conceptual clustering system* (1988 MLC Proceedings, 54–64).
 
-- ![Image](https://github.com/user-attachments/assets/cc0f0a6c-29c9-4d47-b175-53456789aa75)
+![Image](https://github.com/user-attachments/assets/cc0f0a6c-29c9-4d47-b175-53456789aa75)
 - 
 ---
 
@@ -92,16 +92,16 @@ Note: This version of the dataset is taken directly from Fisher's paper and matc
 ## 🔍 Exploratory Data Analysis
 
 - Histograms for each feature
-- ![Image](https://github.com/user-attachments/assets/34965d60-efad-4e3e-aa7c-6aa58ed5df54)
-- ![Image](https://github.com/user-attachments/assets/003711b7-c786-444a-a7d8-c73284c7d58f)
-- ![Image](https://github.com/user-attachments/assets/a474365f-8d41-47ce-aa88-e54cb4cfff07)
-- ![Image](https://github.com/user-attachments/assets/8e765748-835a-4c13-a4a3-87b21408cb65)
+  ![Image](https://github.com/user-attachments/assets/34965d60-efad-4e3e-aa7c-6aa58ed5df54)
+  ![Image](https://github.com/user-attachments/assets/003711b7-c786-444a-a7d8-c73284c7d58f)
+  ![Image](https://github.com/user-attachments/assets/a474365f-8d41-47ce-aa88-e54cb4cfff07)
+  ![Image](https://github.com/user-attachments/assets/8e765748-835a-4c13-a4a3-87b21408cb65)
 - Pairplots showing class separability
-- ![Image](https://github.com/user-attachments/assets/a6b241fc-df01-4af4-8202-8b71a537c819)
+  ![Image](https://github.com/user-attachments/assets/a6b241fc-df01-4af4-8202-8b71a537c819)
 - Scatter plots grouped by species
 - Analysis of feature-to-target relationships
-- ![Image](https://github.com/user-attachments/assets/753db0b0-bbd7-4fdc-b9a9-4b6c87e49fb0)
-- ![Image](https://github.com/user-attachments/assets/09d56979-ab53-449d-8a9d-f80120eaf5e4)
+  ![Image](https://github.com/user-attachments/assets/753db0b0-bbd7-4fdc-b9a9-4b6c87e49fb0)
+  ![Image](https://github.com/user-attachments/assets/09d56979-ab53-449d-8a9d-f80120eaf5e4)
 
 ---
 
